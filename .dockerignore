@@ -1,0 +1,4 @@
+#Ignore docker file 
+dockerfile 
+#Ignore docker compose file 
+docker-compose.yml
